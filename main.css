@@ -1,0 +1,161 @@
+html {
+    -webkit-font-smoothing: antialiased;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Chango);
+body {
+    font-family: 'メイリオ', 'Hiragino kaku Gothic Pro', sans-serif;
+    background-color: #ffffff;
+}
+
+
+
+
+
+/*ヘッダー*/
+
+header {
+    background-color: #ffffff;
+    border-bottom: solid 2px #000000;
+    margin-bottom: 50px;
+}
+
+header h1 {
+    font-family: 'Arial Black', sans-serif;
+    text-align: center;
+    font-size: 90px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    margin-bottom: 70px
+}
+
+/*記事*/
+
+article {
+    background-color: #ffffff;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
+
+article h1 {
+            font-family: 'Arial Black', sans-serif;
+            text-align: center;
+            font-size: 40px;
+            margin-bottom: 0px;
+
+}
+
+ article h2 {
+     font-family: 'MS Pゴシック','Hiragino kaku Gothic Pro' sans-serif;
+     font-size: 23px;
+    line-height: 2;
+    text-align: center;
+    margin-top: 140px;
+    margin-bottom: 140px
+    
+}
+
+article p{
+    font-family: 'MS Pゴシック','Hiragino kaku Gothic Pro' sans-serif;
+    font-size: 19px;
+    line-height: 2;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 40px
+    
+}
+
+article h3 {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            font-size: 18px;
+            margin-top: 80px;
+            margin-bottom: 140px; 
+}
+
+table{
+    width: 0%;
+    margin: 0 auto;
+    background-color: #ffffff;
+}
+
+
+
+td{
+    text-align: center;
+    
+}
+
+.retusukima{
+    border-collapse: separate;
+    border-spacing: 30px 20px;
+    margin-top: 50px;
+}
+
+figure.photo-center{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.senn{
+    border-bottom: solid 1px #000000;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
+
+.mail{
+    font-family: 'Arial', sans-serif;
+            text-align: center;
+            font-size: 25px;
+            margin-top: 80px;
+            margin-bottom: 140px; 
+}
+
+footer{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.taitoru{
+        font-family: 'Arial Black', sans-serif;
+        text-align: center;
+        font-size: 40px;
+        margin-top: 120px;
+
+}
+
+.taitoru2{
+    font-family: 'MS Pゴシック','Hiragino kaku Gothic Pro' sans-serif;
+     font-size: 23px;
+    line-height: 2;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 120px;
+}
+
+.gazoutate{
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.gazoutate1{
+    text-align: center;
+    margin-bottom: 140px;
+}
+
+.gazoutate2{
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.gazoutate3{
+    text-align: center;
+}
